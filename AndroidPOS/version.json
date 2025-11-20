@@ -1,0 +1,17 @@
+{
+  "latest_version": "1.0.6",
+  "min_supported_version": "1.0.3",
+  "force_update": true,
+  "update_type": "security", 
+  "platform": "android",
+  "update_notes": {
+    "vi": [
+      "Thêm tính năng tự cập nhật"
+    ]
+  },
+  "apk_file_name": "UnemPOS-release-4-1.0.5-202511191732.apk",
+  "apk_download_url": "https://drive.google.com/file/d/1xwVO8Zc0yvSNkmTpJ9jB87yxgoLTFOKs/view?usp=drive_link",
+  "release_date": "2025-11-12",
+  "checksum": "ec5b2c7610d8e2a12f0f58c77b81aa4d",
+  "file_size": 14
+}
