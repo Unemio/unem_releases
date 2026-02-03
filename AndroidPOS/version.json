@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.8",
-  "min_supported_version": "1.1.7",
+  "latest_version": "1.1.9",
+  "min_supported_version": "1.1.9",
   "force_update": true,
   "update_type": "security", 
   "platform": "android",
@@ -9,8 +9,8 @@
       "Thêm tính năng tự cập nhật"
     ]
   },
-  "apk_file_name": "UnemPOS-release-18-1.1.8-202601291849.apk",
-  "apk_download_url": "https://github.com/Unemio/unem_releases/releases/download/v1.1.8/UnemPOS-release-18-1.1.8-202601291849.apk",
+  "apk_file_name": "UnemPOS-release-19-1.1.9-202602021150.apk",
+  "apk_download_url": "https://github.com/Unemio/unem_releases/releases/download/v.1.1.9/UnemPOS-release-19-1.1.9-202602021150.apk",
   "release_date": "2026-01-26",
   "checksum": "ec5b2c7610d8e2a12f0f58c77b81aa4de",
   "file_size": 14
