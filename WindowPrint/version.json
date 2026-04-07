@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.0.3",
-  "min_supported_version": "1.0.0.2",
+  "latest_version": "1.0.0.0",
+  "min_supported_version": "1.0.0.0",
   "force_update": true,
   "update_type": "security", 
   "platform": "windows",
