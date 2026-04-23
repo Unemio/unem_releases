@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.0.8",
+  "latest_version": "1.0.0.9",
   "min_supported_version": "1.0.0.0",
-  "force_update": false,
+  "force_update": true,
   "update_type": "security",
   "platform": "windows",
   "update_notes": {
@@ -9,8 +9,8 @@
       "Cài đặt qua installer"
     ]
   },
-  "installer_file_name": "UnemPrintAgent-1.0.0.8-buildlocal.msi",
-  "installer_download_url": "https://github.com/Unemio/unem_releases/raw/refs/heads/main/WindowPrint/UnemPrintAgent-1.0.0.8-buildlocal.msi",
+  "installer_file_name": "UnemPrintAgent-1.0.0.9-buildlocal.msi",
+  "installer_download_url": "https://github.com/Unemio/unem_releases/raw/refs/heads/main/WindowPrint/UnemPrintAgent-1.0.0.9-buildlocal.msi",
   "installer_type": "msi",
   "release_date": "2026-04-23"
 }
