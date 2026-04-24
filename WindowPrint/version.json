@@ -1,16 +1,15 @@
 {
-  "latest_version": "1.0.2.3",
+  "latest_version": "1.0.2.4",
   "min_supported_version": "1.0.0.0",
   "force_update": true,
   "update_type": "security",
   "platform": "windows",
   "update_notes": {
     "vi": [
-      "Cập nhật bảo mật",
-      "Cập nhật qua file zip"
+      "Tự động xóa log cũ"
     ]
   },
-  "zip_file_name": "Unem-Windows-1.0.2.3.zip",
-  "zip_download_url": "https://github.com/Unemio/unem_releases/releases/download/win-v1.0.2.3/Unem-Windows-v1.0.2.3.zip",
-  "release_date": "2026-04-23"
+  "zip_file_name": "Unem-Windows-1.0.2.4.zip",
+  "zip_download_url": "https://github.com/Unemio/unem_releases/releases/download/win-v1.0.2.4/Unem-Windows-v1.0.2.4.zip",
+  "release_date": "2026-04-24"
 }
