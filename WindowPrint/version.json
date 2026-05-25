@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.2.6",
+  "latest_version": "1.0.2.7",
   "min_supported_version": "1.0.0.0",
   "force_update": true,
   "update_type": "security",
@@ -9,7 +9,7 @@
       "Điều chỉnh kiểu chữ in"
     ]
   },
-  "zip_file_name": "Unem-Windows-1.0.2.6.zip",
-  "zip_download_url": "https://github.com/Unemio/unem_releases/releases/download/win-v1.0.2.6/Unem-Windows-v1.0.2.6.zip",
-  "release_date": "2026-04-30"
+  "zip_file_name": "Unem-Windows-1.0.2.7.zip",
+  "zip_download_url": "https://github.com/Unemio/unem_releases/releases/download/win-v1.0.2.7/Unem-Windows-v1.0.2.7.zip",
+  "release_date": "2026-05-25"
 }
